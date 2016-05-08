@@ -35,7 +35,7 @@
     self.delegateService = delegate;
     
     
-    NSURL *url = [NSURL URLWithString:@"https://raw.githubusercontent.com/fvessaz/SimpleCatalogBackend/master/catalog.json"];
+    NSURL *url = [NSURL URLWithString:@"https://raw.githubusercontent.com/s3rg1/ios-sample-app/master/RestService/catalog.json"];
     NSURLRequest *request = [NSURLRequest requestWithURL:url];
 //    NSURLConnection *connection = [[NSURLConnection alloc] initWithRequest:request delegate:self];
     
