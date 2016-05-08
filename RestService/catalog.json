@@ -1,0 +1,46 @@
+[
+	{
+		"category": "Intensity > 10",
+		"capsules":
+		[
+			{
+				"id": "id1",
+				"name": "Kazaar",
+				"price": 0.55,
+				"taste": "EXCEPTIONALLY INTENSE AND SYRUPY",
+				"description": "A daring blend including Robustas from Brazil and Guatemala, specially prepared for Nespresso, and a separately roasted Arabica from South America, Kazaar is a coffee of exceptional intensity. That full bodied Ristretto is rich in roasted notes. In cup it develops a powerful bitterness and notes of pepper that are balanced by a dense and creamy texture.",
+				"img": "https://raw.githubusercontent.com/fvessaz/SimpleCatalogBackend/master/img/1436428549494.png"
+			},
+			{
+				"id": "id2",
+				"name": "Dharkan",
+				"price": 0.55,
+				"taste": "LONG ROASTED AND VELVETY",
+				"description": "This blend of washed Arabicas from Latin America and Asia fully unveils its character thanks to the technique of long roasting at a low temperature. Its powerful personality reveals intense roasted notes together with hints of bitter cocoa powder and toasted cereals that express themselves in a silky and velvety texture. In cup it creates a subtle balance and a pleasant bitterness that lingers in the mouth.",
+				"img": "https://raw.githubusercontent.com/fvessaz/SimpleCatalogBackend/master/img/1437724162627.png"
+			}
+		]
+	},
+	{
+		"category": "Intensity <= 10",
+		"capsules":
+		[
+			{
+				"id": "id3",
+				"name": "Ristretto",
+				"price": 0.45,
+				"taste": "POWERFUL AND CONTRASTING",
+				"description": "A blend of South American and East African Arabicas, with a touch of Robusta, roasted separately to create the subtle fruity note of this full-bodied, intense espresso.",
+				"img": "https://raw.githubusercontent.com/fvessaz/SimpleCatalogBackend/master/img/1436428542985.png"
+			},
+			{
+				"id": "id4",
+				"name": "Arpeggio",
+				"price": 0.45,
+				"taste": "INTENSE AND CREAMY",
+				"description": "Arpeggio takes its distinctive character and full body from a blend of Central and South American Arabicas. The long roasting allows each aspect to develop into an intense bouquet, combining cocoa and roasted notes.",
+				"img": "https://raw.githubusercontent.com/fvessaz/SimpleCatalogBackend/master/img/1437033114930.png"
+			}
+		]
+	}
+]
