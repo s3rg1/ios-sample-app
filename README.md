@@ -3,7 +3,7 @@
 ios-sample-app is a sample iOS App developed for learning purposes. The main features are:
 
   - The user retrieves the items list through a remote REST call. 
-  - Once an item is tapped, detail screen is shown with the selected item information: title, picture & descripcion.
+  - Once an item is tapped, detail screen is shown with the selected item information: title, picture & description.
 
 ### Tech
 
